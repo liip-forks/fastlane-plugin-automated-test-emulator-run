@@ -2,6 +2,9 @@
 
 [![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-automated_test_emulator_run)
 
+<b>This forked version contains fixes to let the plug-in run with avdmanager on modern Android Command-Line Tools</b>
+
+
 <b>(article is deprecated - covered plugin version < 1.3.2 which doesn't support Build-Tools ver. >= 25.0.2)</b>
 <br>See [blog post related to this plugin](https://medium.com/azimolabs/managing-android-virtual-devices-during-test-session-98a403acffc2#.upcmonil1). You can learn there how to create basic setup for this plugin step by step.
 
